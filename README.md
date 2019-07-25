@@ -1,14 +1,12 @@
 # 说明
 
->  项目地址：https://m.youxiake.com/#/
-
 >  视频教程：https://www.3mooc.com/front/couinfo/207
 
 
 ## 项目运行（nodejs 6.0+）
 ``` bash
 # 克隆到本地
-git clone https://github.com/zhangpengWeb/youxiake.git
+git clone https://github.com/zhangpengWeb/qunar-webApp.git
 
 # 进入文件夹
 cd qunar-webApp
