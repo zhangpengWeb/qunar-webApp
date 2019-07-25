@@ -1,6 +1,6 @@
 # 说明
 
->  视频教程：https://www.3mooc.com/front/couinfo/207
+>  视频教程：https://www.3mooc.com/front/couinfo/212
 
 
 ## 项目运行（nodejs 6.0+）
